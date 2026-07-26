@@ -2,19 +2,19 @@
 
 This is a **COVID-19 Impact Analysis Dashboard** built using **Python's Dash & Plotly**. It provides real-time pandemic data visualization for different states in India. 📌
 
-## 🚀 Features
-- **State-wise COVID-19 Trends** 📈
-- **Daily Case Updates** ✅
-- **Interactive Graphs & Charts** 📊
-- **Data-Driven Insights** 🔍
+## Features
+- **State-wise COVID-19 Trends** 
+- **Daily Case Updates** 
+- **Interactive Graphs & Charts** 
+- **Data-Driven Insights** 
 
-## 🛠️ Tech Stack
-- **Python** 🐍
-- **Dash & Plotly** 📊
-- **Pandas** 📝
-- **CSV Data Processing** 📂
+## Tech Stack
+- **Python** 
+- **Dash & Plotly** 
+- **Pandas** 
+- **CSV Data Processing** 
 
-## 📂 Project Structure
+##  Project Structure
 ![ChatGPT Image Mar 29, 2025, 01_26_45 PM](https://github.com/user-attachments/assets/4d541fbc-2713-464e-86f5-6dcb26d2cf92)
 
 
@@ -43,23 +43,23 @@ This is a **COVID-19 Impact Analysis Dashboard** built using **Python's Dash & P
 
 <h2>📊 Data Visualization</h2>
 <ul>
-    <li>📊 <strong>Bar Chart</strong> - Total cases per state.</li>
-    <li>📉 <strong>Pie Chart</strong> - Case distribution across zones.</li>
-    <li>📈 <strong>Line Graph</strong> - Trends over time.</li>
+    <li><strong>Bar Chart</strong> - Total cases per state.</li>
+    <li><strong>Pie Chart</strong> - Case distribution across zones.</li>
+    <li><strong>Line Graph</strong> - Trends over time.</li>
 </ul>
 
 <h2>🎯 Future Improvements</h2>
 <ul>
-    <li>🌎 Global COVID-19 tracker.</li>
-    <li>🔄 Real-time API data fetching.</li>
-    <li>🌙 Dark mode support.</li>
+    <li>Global COVID-19 tracker.</li>
+    <li>Real-time API data fetching.</li>
+    <li>Dark mode support.</li>
 </ul>
 
 <h2>👩‍💻 Author</h2>
 <p><strong>Akansha Kaduskar</strong></p>
-<p>📧 <a href="mailto:akanshakaduskar@gmail.com">akanshakaduskar@gmail.com</a></p>
-<p>🔗 <a href="https://github.com/akanshakaduskar">GitHub Profile</a></p>
+<p><a href="mailto:akanshakaduskar@gmail.com">akanshakaduskar@gmail.com</a></p>
+<p><a href="https://github.com/akanshakaduskar">GitHub Profile</a></p>
 
-<h2>📜 License</h2>
+<h2>License</h2>
 <p>This project is open-source under the <strong>MIT License</strong>.</p>
 The app runs locally at: http://127.0.0.1:8050/
