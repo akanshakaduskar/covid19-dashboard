@@ -15,7 +15,7 @@ This is a **COVID-19 Impact Analysis Dashboard** built using **Python's Dash & P
 - **CSV Data Processing** 
 
 ##  Project Structure
-(https://github.com/user-attachments/assets/4d541fbc-2713-464e-86f5-6dcb26d2cf92)
+
 <img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/e425bfa1-555e-474f-b4ed-a654a4154d17" />
 
 
