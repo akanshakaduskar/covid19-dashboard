@@ -16,6 +16,7 @@ This is a **COVID-19 Impact Analysis Dashboard** built using **Python's Dash & P
 
 ##  Project Structure
 ![ChatGPT Image Mar 29, 2025, 01_26_45 PM](https://github.com/user-attachments/assets/4d541fbc-2713-464e-86f5-6dcb26d2cf92)
+<img width="1919" height="987" alt="image" src="https://github.com/user-attachments/assets/e425bfa1-555e-474f-b4ed-a654a4154d17" />
 
 
 ![image](https://github.com/user-attachments/assets/2a833414-cdcd-4839-a7e6-4481253550c9)
@@ -57,7 +58,7 @@ This is a **COVID-19 Impact Analysis Dashboard** built using **Python's Dash & P
 
 <h2>👩‍💻 Author</h2>
 <p><strong>Akansha Kaduskar</strong></p>
-<p><a href="mailto:akanshakaduskar@gmail.com">akanshakaduskar@gmail.com</a></p>
+<p><a href="mailto:akanshakaduskar0704@gmail.com">akanshakaduskar@gmail.com</a></p>
 <p><a href="https://github.com/akanshakaduskar">GitHub Profile</a></p>
 
 <h2>License</h2>
